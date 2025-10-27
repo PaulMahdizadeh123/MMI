@@ -62,15 +62,7 @@ For support, email 20110720115@fudan.edu.cn
 If you use this code, please cite the original paper:
 
 ```bibtex
-@article{mahdizadeh2025mamba,
-  author={M. Mahdizadeh and J. Cao and P. Ye and T. Chen},
-  journal={IEEE Transactions on Multimedia},
-  title={Mamba-Based Progressive-Recovery Framework for Multimodal Low Light Image Enhancement},
-  year={2025},
-  doi={10.1109/TMM.2025.3623502},
-}
-
-
+M. Mahdizadeh, J. Cao, P. Ye and T. Chen, "Mamba-Based Progressive-Recovery Framework for Multimodal Low Light Image Enhancement," in IEEE Transactions on Multimedia, doi: 10.1109/TMM.2025.3623502.
 
 ```
 
