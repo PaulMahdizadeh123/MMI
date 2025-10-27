@@ -7,47 +7,39 @@
 
 # Multimodal Mamba low light Image Enhancement
 
-> [!NOTE]
-> We will upload the codes and implementation instructions once our research paper has been accepted.
-
- 
-
-## 1. Pipeline
-
-## 2. Results
 
 
-
-<br/><br/>
-
-
-
-**Figure 8. Segmentation Outcomes Using Segment Anything**
-<br/><br/>
+## 1. The Code
+# Mamba-based Low Light Image Enhancement
 
 
+## Structure
 
+- `mamba.py`: Core Mamba module.
+- `modules.py`: Components for illumination corruption restoration (IAI, DSFS, IISSM, MambaUNet).
+- `fusion.py`: Components for multimodal fusion enhancement (MMB, MultimodalFusion, etc.).
+- `losses.py`: Loss functions (LossA, LossB) and helpers.
+- `utils.py`: Utility functions like bright_channel.
+- `model.py`: Main model classes (IlluminationEstimator, ProposedMethod).
+- `train.py`: Example training script.
 
-**Figure 9. Object Recognition Outcomes Using YOLOv3**
-<br/><br/>
+## Usage
+
+Install dependencies (PyTorch, etc.), then run `train.py` with your dataset.
 
 
 
-
-## 3. Implementation 
-1. Create Environment
-2. Requirements
-3. Prepare Dataset
-4. Testing
-5. Training
-
-## 4. Contact
+## 2.  Contact
 For support, email 20110720115@fudan.edu.cn
 
 
-## 5. Citation
+## 3. Citation
 If this work is helpful to you, please cite it as：
-```shell
+
+M. Mahdizadeh, J. Cao, P. Ye and T. Chen, "Mamba-Based Progressive-Recovery Framework for Multimodal Low Light Image Enhancement," in IEEE Transactions on Multimedia, doi: 10.1109/TMM.2025.3623502.
+keywords: {Lighting;Image enhancement;Image color analysis;Image restoration;Feature extraction;Estimation;Brightness;Image edge detection;Transformers;Image fusion;Multimodal low light enhancement;progressive-recovery framework;mamba-UNet;CNN-mamba},
+
+
 
 
 
