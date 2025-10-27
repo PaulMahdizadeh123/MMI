@@ -25,8 +25,8 @@
 ## Usage
 Install dependencies (PyTorch, etc.), then run `train.py` with your dataset.
 
-- There are more .py files for your help. For instance:
-- `utilities.py`: This file provides utility functions for quality metrics (PSNR, SSIM), feature visualization, and model summary (FLOPs and parameters) in low-light enhancement.
+There are more .py files for your help. For instance:
+`utilities.py`: This file provides utility functions for quality metrics (PSNR, SSIM), feature visualization, and model summary (FLOPs and parameters) in low-light enhancement.
 **Key Functions**
   Quality Metrics
 
