@@ -35,12 +35,6 @@ PSNR(img1, img2): Simplified PSNR for [0,1] range images.
 calculate_ssim(img1, img2, border=0): SSIM for grayscale/color images.
 ssim(img1, img2): Core SSIM with Gaussian filtering.
 
-**Image I/O
-**
-load_img(filepath): Load RGB image.
-save_img(filepath, img): Save RGB image.
-load_gray_img(filepath): Load grayscale image.
-save_gray_img(filepath, img): Save grayscale image.
 
 **Visualization**
 
