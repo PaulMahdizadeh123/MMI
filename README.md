@@ -52,18 +52,23 @@ fvcore (for FlopCountAnalysis): pip install fvcore.
 
 
 
-## 2.  Contact
+## 2.  Support
 For support, email 20110720115@fudan.edu.cn
 
 
 ## 3. Citation
-If this work is helpful to you, please cite it as：
-
-M. Mahdizadeh, J. Cao, P. Ye and T. Chen, "Mamba-Based Progressive-Recovery Framework for Multimodal Low Light Image Enhancement," in IEEE Transactions on Multimedia, doi: 10.1109/TMM.2025.3623502.
-keywords: {Lighting;Image enhancement;Image color analysis;Image restoration;Feature extraction;Estimation;Brightness;Image edge detection;Transformers;Image fusion;Multimodal low light enhancement;progressive-recovery framework;mamba-UNet;CNN-mamba},
 
 
+If you use this code, please cite the original paper:
 
+```bibtex
+@article{mahdizadeh2025mamba,
+  author={M. Mahdizadeh and J. Cao and P. Ye and T. Chen},
+  journal={IEEE Transactions on Multimedia},
+  title={Mamba-Based Progressive-Recovery Framework for Multimodal Low Light Image Enhancement},
+  year={2025},
+  doi={10.1109/TMM.2025.3623502},
+}
 
 
 
