@@ -5,12 +5,11 @@
 
 
 
-# Multimodal Mamba low light Image Enhancement
+# Mamba-Based Progressive-Recovery Framework for Multimodal Low Light Image Enhancement,
 
 
 
 ## 1. The Code
-# Mamba-based Low Light Image Enhancement
 
 
 ## Structure
